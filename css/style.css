@@ -150,7 +150,7 @@ main #tours h2{
     margin-top: 30px;
 }
 
-main #tours p{
+main #tours .subtileTour{
     margin: auto;
     font-size: 2em;
 }
@@ -167,6 +167,23 @@ main #tours .container-images img{
     width: 95%;
     margin: auto;
     display: block;
+}
+
+main #tours .container-images div .textContainer{
+    color: white;
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    font-size: 1.2em;
+    padding: 9px 0px;
+}
+
+main #tours .container-images div .container1 {
+    background-color: black;
+}
+
+main #tours .container-images div .container2 {
+    background-color: red;
 }
 
 main #maps{
