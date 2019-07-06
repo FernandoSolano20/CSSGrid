@@ -270,6 +270,7 @@ footer #contact form textarea{
     min-width: 250px;
     width: 93%;
     height: 55px;
+    resize: none;
 }
 
 ::-webkit-input-placeholder { /* Edge */
